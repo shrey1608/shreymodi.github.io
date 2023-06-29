@@ -14,9 +14,10 @@ You can also contact me via email at modishrey007@gmail.com. Whether you have a 
 ### Social Media
 Connect with me on social media to stay updated with my latest projects and insights. Feel free to send me a direct message or connect through the platforms listed below:
 
-- LinkedIn: [https://www.linkedin.com/in/shreymodi7/]
-- Google Scholar: [https://scholar.google.com/citations?user=mfmrJUYAAAAJ&hl=en]
-- GitHub: [https://github.com/shrey1608]
+- [LinkedIn](https://www.linkedin.com/in/shreymodi7/)
+- [Google Scholar](https://scholar.google.com/citations?user=mfmrJUYAAAAJ&hl=en)
+- [GitHub](https://github.com/shrey1608)
+
 
 ### Availability
 I strive to respond to all inquiries promptly. Typically, you can expect a reply within 24 hours. However, please allow for additional time during busy periods.
