@@ -4,9 +4,19 @@ title: "Contact"
 excerpt: "Contact me"
 author_profile: true
 ---
-Contact information is below, including email and various web services.  This is to make it easy for people to find me when they search for things like "stuart geiger email" and get wrong pages on my site. Also, my full name is Richard Stuart Geiger, even though I just go by Stuart. I show up as "Geiger, Richard Stuart" in various administrative databases. Here are some other places on the Internet where I reside.
+## Contact Me
 
-* E-mail: stuart [at] stuartgeiger.com
-* Twitter: [staeiou](http://twitter.com/Staeiou)
-* Google Scholar: [author:geiger-r-stuart](http://scholar.google.com/citations?user=0AvWi3wAAAAJ&hl=en)
-* Wikipedia: [staeiou](http://en.wikipedia.org/wiki/User:Staeiou)
+Thank you for visiting my website! I would love to hear from you. Please feel free to reach out using any of the methods below:
+
+### Email
+You can also contact me via email at modishrey007@gmail.com. Whether you have a question, collaboration opportunity, or just want to say hello, I'm eager to hear from you.
+
+### Social Media
+Connect with me on social media to stay updated with my latest projects and insights. Feel free to send me a direct message or connect through the platforms listed below:
+
+- LinkedIn: [https://www.linkedin.com/in/shreymodi7/]
+- Google Scholar: [https://scholar.google.com/citations?user=mfmrJUYAAAAJ&hl=en]
+- GitHub: [https://github.com/shrey1608]
+
+### Availability
+I strive to respond to all inquiries promptly. Typically, you can expect a reply within 24 hours. However, please allow for additional time during busy periods.
