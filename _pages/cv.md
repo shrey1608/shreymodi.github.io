@@ -9,7 +9,6 @@ redirect_from:
 {% include base_path %}
 # Resume
 
-This repository contains my resume, highlighting my education, skills, experience, projects, publications, and other relevant information.
 
 ## Education
 
@@ -20,12 +19,14 @@ This repository contains my resume, highlighting my education, skills, experienc
 
 - Programming Languages: Python, JavaScript, C, C++, SQL
 - Software Development: Object-Oriented Design, Data Structures and Algorithms
-- Frameworks: Django, Flask, Bootstrap
+- Web Frameworks: Django, Flask, Bootstrap
 - Databases: MySQL, SQLite
 - API Development: Django REST Framework, Postman
 - Operating Systems: Linux, macOS, Windows
 - Machine Learning Libraries: Scikit-learn, TensorFlow, Pandas
 - Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
+- Machine learning frameworks: TensorFlow, PyTorch, Keras
+- Data Visualization: Tableau, Matplotlib, Seaborn, Power BI
 
 ## Experience
 
@@ -48,6 +49,15 @@ This repository contains my resume, highlighting my education, skills, experienc
 
 ## Projects
 
+### Customer Retention and ROI Optimization System - 2023
+- Conducted in-depth analysis, visualization, and feature engineering of a large-scale e-commerce dataset to identify trends in
+customer behavior and assess the impact of promotions on sales. Implemented dimensionality reduction techniques such as PCA
+and t-SNE for improved modeling and prediction capabilities.
+- Developed and evaluated prediction models, including Bayes Classifier, nearest neighbors, and neural networks, to identify repeat
+buyers and design a recommendation system. Utilized evaluation metrics to assess model performance and provided
+comprehensive recommendations for addressing the challenge of one-time buyers.
+
+
 ### Artsy Store (E-Commerce Website) - 2022
 
 - Developed a fully functional e-commerce website for my captured photographs using the Django framework, showcasing my photography portfolio and enabling customers to purchase prints.
@@ -62,14 +72,24 @@ This repository contains my resume, highlighting my education, skills, experienc
 - Utilized machine learning algorithms such as random forests and gradient boosting, including natural language processing (NLP) techniques, to analyze resumes and extract relevant information.
 - Applied techniques such as named entity recognition (NER), text classification, and information extraction to automate the process of resume evaluation and candidate screening.
 
-## Publications
+### Publications
 
-- Facial Emotion Recognition using Convolution Neural Network, (ICICCS), 2021 [Pdf] [Journal]
-- Comparative Analysis on Psychometric Prediction System, (STCR), 2021 [Pdf] [Journal]
-- Employee Attrition System using tree-based ensemble techniques, (ICCCI), 2022 [Pdf] [Journal]
 - Position Mapping using Content Based Image Retrieval and Annoy, (Accepted(MoSiCom)), 2023
 - Tunable Sparing of Disks in a Cloud Data Center, (Accepted(CERA)), 2023
+- Facial Emotion Recognition using Convolution Neural Network, (ICICCS), 2021 
+- Comparative Analysis on Psychometric Prediction System, (STCR), 2021 
+- Employee Attrition System using tree-based ensemble techniques, (ICCCI), 2022 
 
-## Additional Information
+### Leadership
+#### ResTech - Founder ( 2021-2022)
+- As the founder of ResTech, I had the opportunity to lead a research-based service that provided clients with valuable insights into their business products and the market landscape. Over the course of my tenure, I developed a deep understanding of how to conduct thorough research and analysis, and I honed my skills in data collection, organization, and presentation. 
+- I worked closely with clients to understand their needs and requirements, and I provided actionable recommendations based on my findings. 
+- This experience allowed me to gain valuable experience in entrepreneurship and leadership, and it deepened my passion for using research and analysis.
 
-For more details about my experience, projects, and publications, please refer to the respective sections above.
+
+### Mentorship
+- Mentored (Major League Hacking(MLH))[https://mlh.io/] (2020-2022)
+- Mentored (SLOP)[https://slop.dscdaiict.in/] (2022)
+- Mentored (Garuda Hacks)[https://garudahacks.com/](2021)
+
+
