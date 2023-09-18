@@ -1,10 +1,8 @@
 ---
-layout: archive
-title: "Experience"
 permalink: /Experience/
+title: "Experience"
+excerpt: "Experience"
 author_profile: true
-redirect_from:
-  - /wordpress/Experience/
 ---
 {% include base_path %}
 
