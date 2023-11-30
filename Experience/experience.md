@@ -6,7 +6,6 @@ author_profile: true
 ---
 {% include base_path %}
 
-## Experience
 
 ### California State University Long Beach
 **Graduate Research Assistant**  
